@@ -35,14 +35,12 @@ A lo largo de **8 ejemplos** y **8 ejercicios resueltos**, se abordan temas que 
 
 ## 🧠 Nivel de uso de herramientas de Inteligencia Artificial  
 
-### Clasificación: **Bajo**  
+### Clasificación: **Medio**  
 
 Durante el desarrollo del material, se emplearon herramientas de inteligencia artificial como **apoyo complementario** para:  
 - Mejorar la redacción y claridad del contenido  
 - Revisar la estructura del código  
-- Optimizar ejemplos sin alterar su propósito académico  
-
-El trabajo analítico, la implementación y la interpretación de resultados fueron realizados directamente por el autor.
+- Optimizar ejemplos sin alterar su propósito académico
 
 ---
 
