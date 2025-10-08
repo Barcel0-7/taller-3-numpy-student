@@ -1,31 +1,44 @@
 # Taller: Ejercicios y Ejemplos en Python con NumPy
 
-[Autor: Escribe tu nombre aquí]
+**Autor:** Angel David Díaz Barceló
 
 ## Descripción
 
-[Escribe la descripción del repositorio aquí]
+Este repositorio presenta ejemplos prácticos sobre **NumPy** y **Programación Orientada a Objetos (POO)** en Python.  
+El material combina teoría, ejemplos comentados y ejercicios resueltos para fortalecer las bases de la programación científica y el análisis numérico.
+
+A través de **8 ejemplos** y **8 ejercicios prácticos**, se abordan desde los fundamentos del manejo de *arrays* hasta conceptos de álgebra lineal avanzada y modelado orientado a objetos.
+
+---
+
+## Contenido del repositorio
+
+### Ejemplos fundamentales que cubren:
+- Arrays 1D, 2D, 3D y 4D  
+- Operaciones matriciales  
+- Funciones en Python  
+- Programación Orientada a Objetos  
+- Herencia y polimorfismo  
+
+### Ejercicios prácticos con soluciones que incluyen:
+- Operaciones con arrays  
+- Indexación y *slicing* avanzado  
+- *Broadcasting*  
+- Funciones de agregación  
+- *Reshape* y *flatten*  
+
+---
 
 ## Nivel de uso de herramientas de inteligencia artificial
 
-### Clasificación: [SELECCIONA UNA OPCION]
-- **Sin uso de IA**: No se utilizaron herramientas de inteligencia artificial en el desarrollo de este proyecto
-- **Bajo**: Uso limitado de herramientas de IA para tareas específicas
-- **Medio**: Uso moderado de herramientas de IA para asistencia en el desarrollo
-- **Alto**: Uso extensivo de herramientas de IA para la generación y optimización del código
+### Clasificación: **Bajo**
 
-### Herramientas utilizadas (si aplica)
-[Si seleccionaste "Bajo", "Medio" o "Alto", describe las herramientas específicas utilizadas]
+Durante la elaboración del material, se utilizaron herramientas de inteligencia artificial como apoyo complementario para mejorar la redacción y corrección del contenido, sin sustituir el trabajo analítico y de implementación realizado.
 
-#### Ejemplos de prompts utilizados:
-[Incluye ejemplos específicos de los prompts que utilizaste con cada herramienta]
+---
 
-**Ejemplo para generación de código:**
-```
-Prompt: "Crea un archivo Python que demuestre el uso de numpy, pandas y matplotlib para análisis de datos básicos"
-```
+## Herramientas utilizadas
 
-**Ejemplo para optimización:**
-```
-Prompt: "Revisa este código y sugiere mejoras para hacerlo más eficiente y legible"
-```
+**Claude AI (Anthropic)**
+
+**Prompt para verificación de código:**
