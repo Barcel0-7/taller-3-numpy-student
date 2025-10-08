@@ -1,44 +1,57 @@
-# Taller: Ejercicios y Ejemplos en Python con NumPy
+# 🧮 Taller: Ejercicios y Ejemplos en Python con NumPy  
 
-**Autor:** Angel David Díaz Barceló
-
-## Descripción
-
-Este repositorio presenta ejemplos prácticos sobre **NumPy** y **Programación Orientada a Objetos (POO)** en Python.  
-El material combina teoría, ejemplos comentados y ejercicios resueltos para fortalecer las bases de la programación científica y el análisis numérico.
-
-A través de **8 ejemplos** y **8 ejercicios prácticos**, se abordan desde los fundamentos del manejo de *arrays* hasta conceptos de álgebra lineal avanzada y modelado orientado a objetos.
+**Autor:** Angel David Díaz Barceló  
+**Universidad Nacional de Colombia — Ingeniería Mecatrónica**  
 
 ---
 
-## Contenido del repositorio
+## 📘 Descripción  
 
-### Ejemplos fundamentales que cubren:
-- Arrays 1D, 2D, 3D y 4D  
-- Operaciones matriciales  
-- Funciones en Python  
-- Programación Orientada a Objetos  
-- Herencia y polimorfismo  
+Este repositorio presenta una colección de **ejemplos prácticos y ejercicios guiados en Python** utilizando la librería **NumPy**, complementados con conceptos de **Programación Orientada a Objetos (POO)**.  
 
-### Ejercicios prácticos con soluciones que incluyen:
-- Operaciones con arrays  
+El material combina teoría, ejemplos comentados y prácticas con solución para fortalecer las bases de la programación científica, el análisis numérico y la escritura de código limpio y estructurado.  
+
+A lo largo de **8 ejemplos** y **8 ejercicios resueltos**, se abordan temas que van desde la manipulación básica de arrays hasta operaciones complejas de álgebra lineal y modelado orientado a objetos.
+
+---
+
+## 📂 Contenido del repositorio  
+
+### 🔹 Ejemplos fundamentales  
+- Manejo de arrays 1D, 2D, 3D y 4D  
+- Operaciones y transformaciones matriciales  
+- Creación y uso de funciones en Python  
+- Conceptos básicos de POO  
+- Herencia, encapsulación y polimorfismo  
+
+### 🔹 Ejercicios prácticos con soluciones  
+- Operaciones aritméticas y lógicas con arrays  
 - Indexación y *slicing* avanzado  
-- *Broadcasting*  
-- Funciones de agregación  
-- *Reshape* y *flatten*  
+- Uso del *broadcasting*  
+- Funciones de agregación y estadísticas  
+- Transformaciones: *reshape*, *flatten* y *concatenate*  
 
 ---
 
-## Nivel de uso de herramientas de inteligencia artificial
+## 🧠 Nivel de uso de herramientas de Inteligencia Artificial  
 
-### Clasificación: **Bajo**
+### Clasificación: **Bajo**  
 
-Durante la elaboración del material, se utilizaron herramientas de inteligencia artificial como apoyo complementario para mejorar la redacción y corrección del contenido, sin sustituir el trabajo analítico y de implementación realizado.
+Durante el desarrollo del material, se emplearon herramientas de inteligencia artificial como **apoyo complementario** para:  
+- Mejorar la redacción y claridad del contenido  
+- Revisar la estructura del código  
+- Optimizar ejemplos sin alterar su propósito académico  
+
+El trabajo analítico, la implementación y la interpretación de resultados fueron realizados directamente por el autor.
 
 ---
 
-## Herramientas utilizadas
+## 🤖 Herramientas de IA utilizadas  
 
-**Claude AI (Anthropic)**
+### **Claude AI (Anthropic)**  
 
-**Prompt para verificación de código:**
+La herramienta se empleó de manera controlada para revisión y optimización del código, asegurando un proceso transparente y ético en el uso de IA en entornos académicos.  
+
+### 💬 Prompts utilizados  
+
+#### 🔹 Verificación de código  
